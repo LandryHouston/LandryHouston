@@ -36,4 +36,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"class="random-bounce" style="animation-delay: 0.38s;"/>
 </p>
 
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="styles.css">
