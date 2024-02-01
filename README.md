@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello 👋, I'm Landry Houston</h1>
 <h3 align="center">Data Scientist</h3>
-- 🔭 I’m currently working on [ASL Translator](https://github.com/LandryHouston/ASL_Translator)
 
+- 🔭 I’m currently working on [ASL Translator](https://github.com/LandryHouston/ASL_Translator)
 - 📫 How to reach me **landryh@landryhouston.com**
 - 👨‍💻 All of my projects are available at **https://landryhouston.com/**
 
