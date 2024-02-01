@@ -11,6 +11,8 @@
 <a href="https://landryhouston.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-080808?style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href = "mailto:landryh@landryhouston.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandryHouston&layout=compact&theme=dark" alt=LandryHouston />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -32,10 +34,3 @@
 <img src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandryHouston&layout=compact&theme=dark" alt=LandryHouston />
-
-
