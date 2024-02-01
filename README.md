@@ -3,10 +3,13 @@
 <h3 align="center">Data Scientist</h3>
 - 🔭 I’m currently working on [ASL Translator](https://github.com/LandryHouston/ASL_Translator)
 
-
+- 📫 How to reach me **landryh@landryhouston.com**
+- 👨‍💻 All of my projects are available at **https://landryhouston.com/**
+- 📄 Know about my experiences **https://landryhouston.com/contact/Landry_Houston_Resume.pdf**
 
 <div> <a href="https://www.linkedin.com/in/landryhouston" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/LandryHouston" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:landryh@landryhouston.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
