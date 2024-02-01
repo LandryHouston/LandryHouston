@@ -49,7 +49,6 @@
       transform: translateY(-10px);
     }
   }
-
   .random-bounce {
     animation: bounce 2s infinite;
   }
