@@ -14,7 +14,7 @@
 
 <br>
 <br>
-<p align="center">
+<p align="center" class='random-bounce'>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"class="random-bounce" style="animation-delay: 0.02s;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBi" width='40' height="40"class="random-bounce" style="animation-delay: 0.04s;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/121px-R_logo.svg.png" alt='R' height="40" width="40"class="random-bounce" style="animation-delay: 0.06s;"/>
