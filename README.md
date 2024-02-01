@@ -11,9 +11,9 @@
 <a href="https://landryhouston.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-080808?style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href = "mailto:landryh@landryhouston.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandryHouston&layout=compact&theme=dark" alt=LandryHouston />
-<br/>
+<br></br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-BI.png" alt="PowerBi" width='40' height="40"/>
