@@ -1,4 +1,4 @@
-![Header](./github_header.png)
+![Header](images/github_header.png)
 <h1 align="center">Hello! I'm Landry Houston</h1>
 <h3 align="center">Data Scientist</h3>
 - 🔭 I’m currently working on [ASL Translator](https://github.com/LandryHouston/ASL_Translator)
