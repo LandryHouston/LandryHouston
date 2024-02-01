@@ -1,4 +1,5 @@
-### Hello! Welcome to my Github
+## Welcome to my Github!
+#### Hello, I'm Landry Houston, a competitive young professional aiming to advance my career as a Data Scientist. With a technical background in automotive and equipment technology, I excel at efficiently identifying and resolving problems. I enjoy uncovering hidden information and creating data visualizations that convey important insights. I'm excited to keep learning and improving my skills in my career.
 
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
