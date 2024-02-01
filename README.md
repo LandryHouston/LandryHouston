@@ -1,6 +1,6 @@
 ![Header](./github_header.png)
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://landryhouston.com/" target="_blank">
         <img src="https://img.shields.io/badge/website-080808?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
     </a>
@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white">
     </a>
 </div>
+
 
 <br>
 <br>
