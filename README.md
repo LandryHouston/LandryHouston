@@ -27,8 +27,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="slack" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="Git" width="40" height="40"/>
