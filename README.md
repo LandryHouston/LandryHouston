@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white">
     </a>
 </div>
-<p>Currently working on - <a href="https://github.com/LandryHouston/Weather_Wizard">Weather_Wizard</a></p>
+<p align="center">Currently working on - <a href="https://github.com/LandryHouston/Weather_Wizard" target="_blank">Weather_Wizard</a></p>
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
