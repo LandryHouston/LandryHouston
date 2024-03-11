@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white">
     </a>
 </div>
+<br>
 <p align="center">Currently working on - <a href="https://github.com/LandryHouston/Weather_Wizard" target="_blank">Weather_Wizard</a></p>
 <br>
 <p align="center">
