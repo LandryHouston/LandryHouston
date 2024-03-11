@@ -11,7 +11,7 @@
     </a>
 </div>
 <br>
-<p align="center">Currently working on <a href="https://github.com/LandryHouston/Weather_Wizard">Weather_Wizard,</a> a project involving time series analysis on past weather data and making future predictions. Additionally, I'm planning to develop a web application displaying the current weather in a specified location.</p>
+<p align="center">Currently working on <a href="https://github.com/LandryHouston/Weather_Wizard">Weather_Wizard,</a> a project involving time series analysis on past weather data and making future predictions.</p>
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
