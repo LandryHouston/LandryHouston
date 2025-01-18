@@ -1,4 +1,6 @@
+<div align='center'>
 ![Header](./github_header_image.png)
+</div>
 <div align="center">
     <a href="https://landryhouston.com/" target="_blank">
         <img src="https://img.shields.io/badge/website-080808?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
