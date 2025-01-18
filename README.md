@@ -1,13 +1,13 @@
 ![Header](./github-header-image.png)
 <div align="center">
     <a href="https://landryhouston.com/" target="_blank">
-        <img src="https://img.shields.io/badge/website-080808?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/website-080808?style=for-the-badge&logo=About.me&logoColor=white" width="50" height="200">
     </a>
     <a href="https://www.linkedin.com/in/landryhouston" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="200">
     </a>
     <a href='https://landryhouston.com/contact/Landry_Houston_Resume.pdf' target='_blank'>
-        <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white" width="200", height="200">
+        <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white" width="50" height="200">
     </a>
 </div>
 <br>
