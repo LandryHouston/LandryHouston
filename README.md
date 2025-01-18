@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href='https://landryhouston.com/contact/Landry_Houston_Resume.pdf' target='_blank'>
-        <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white">
+        <img src="https://img.shields.io/badge/-Resume-B8A9E0?style=for-the-badge&logo=bookstack&logoColor=white" width="200", height="200">
     </a>
 </div>
 <br>
