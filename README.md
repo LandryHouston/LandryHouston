@@ -40,7 +40,7 @@
 </p>
   <br>
 <p align='center'>
-  <img src="https://streak-stats.demolab.com/?user=LandryHouston&theme=github-dark_blue" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LandryHouston&theme=github-dark-blue" alt="Streak Stats"/>
 </p>
 <br>
 <div align='center'>
