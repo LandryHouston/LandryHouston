@@ -36,20 +36,21 @@
 <hr>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3ad353&background=0d1116&center=true&vCenter=true&width=490&lines=Welcome+to+my+Github!;Check+out+my+pinned+projects!;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1a9fff&center=true&vCenter=true&width=490&weight=600&size=24&lines=Welcome+to+my+Github!;Check+out+my+pinned+projects!;" alt="Typing SVG"/>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=LandryHouston&theme=github-dark" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=LandryHouston&theme=github-dark_blue" alt="Streak Stats"/>
 </p>
 <br>
-<div align='center' style="font-family: Arial, sans-serif; padding: 20px; border: 2px solid #3ad353; border-radius: 10px; background-color: #0d1116; color: #fff;">
-    <p style="font-size: 1.4em; margin-top: 10px;"><strong>Current project:</strong></p>
+<div align='center'>
+    <h3>Current project:</h3>
     <a href="https://github.com/LandryHouston/100_Days_of_Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=100_Days_of_Python&theme=github_dark" alt="Repo Card" style="border-radius: 8px; margin: 10px 0;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=100_Days_of_Python&theme=github_dark" alt="Repo Card">
     </a>
-    <p style="font-size: 1.1em; margin-top: 10px;">A fun and exciting challenge where I complete a new Python project every day for 100 days!</p>
+    <h4>A fun and exciting challenge where I complete a new Python project every day for 100 days!</h4>
 </div>
 <br>
-
+<hr>
+<br>
 <p>
 <div align='center'>
     <a href="https://github.com/LandryHouston/ASL_Translator">
