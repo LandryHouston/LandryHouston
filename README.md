@@ -32,3 +32,50 @@
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+<br>
+<hr>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3ad353&background=0d1116&center=true&vCenter=true&width=490&lines=Welcome+to+my+Github!;Check+out+my+pinned+projects!;" alt="Typing SVG"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=LandryHouston&theme=github-dark" alt="Streak Stats"/>
+</p>
+<br>
+<div align='center' style="font-family: Arial, sans-serif; padding: 20px; border: 2px solid #3ad353; border-radius: 10px; background-color: #0d1116; color: #fff;">
+    <p style="font-size: 1.4em; margin-top: 10px;"><strong>Current project:</strong></p>
+    <a href="https://github.com/LandryHouston/100_Days_of_Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=100_Days_of_Python&theme=github_dark" alt="Repo Card" style="border-radius: 8px; margin: 10px 0;">
+    </a>
+    <p style="font-size: 1.1em; margin-top: 10px;">A fun and exciting challenge where I complete a new Python project every day for 100 days!</p>
+</div>
+<br>
+
+<p>
+<div align='center'>
+    <a href="https://github.com/LandryHouston/ASL_Translator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=ASL_Translator&theme=github_dark" alt="Repo Card"/>
+    </a>
+    <a href="https://github.com/LandryHouston/Reddit_API_and_NLP_Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=Reddit_API_and_NLP_Project&theme=github_dark" alt="Repo Card"/>
+    </a>
+</div>
+<div align='center'>
+    <a href="https://github.com/LandryHouston/Hotdog_Image_Classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=Hotdog_Image_Classifier&theme=github_dark" alt="Repo Card"/>
+    </a>
+    <a href="https://github.com/LandryHouston/Flight_Price_Prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=Flight_Price_Prediction&theme=github_dark" alt="Repo Card"/>
+    </a>
+</div>
+<div align='center'>
+    <a href="https://github.com/LandryHouston/Housing_Data_Analysis_in_Ames_Iowa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=Housing_Data_Analysis_in_Ames_Iowa&theme=github_dark" alt="Repo Card"/>
+    </a>
+    <a href="https://github.com/LandryHouston/Personal_Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LandryHouston&repo=Personal_Portfolio&theme=github_dark" alt="Repo Card"/>
+    </a>
+</div>
+</p>
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LandryHouston&langs_count=4&size_weight=0.5&count_weight=0.5&theme=github_dark&card_width=450'/>
+</p>
