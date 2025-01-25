@@ -37,7 +37,9 @@
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1a9fff&center=true&vCenter=true&width=490&weight=600&size=24&lines=Welcome+to+my+Github!;Check+out+my+pinned+projects!;" alt="Typing SVG"/>
+</p>
   <br>
+<p align='center'>
   <img src="https://streak-stats.demolab.com/?user=LandryHouston&theme=github-dark_blue" alt="Streak Stats"/>
 </p>
 <br>
