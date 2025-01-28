@@ -1,0 +1,29 @@
+name: Streak Tracker
+
+on:
+  push:
+    branches:
+      - main  # or the branch you want to run this on
+  workflow_dispatch:  # Allows manual triggers from GitHub UI
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Streak Tracker
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # Access secret here
+        run: |
+          python streak_tracker.py
